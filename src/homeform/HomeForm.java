@@ -18,5 +18,5 @@ public class HomeForm {
          GUI gui = new GUI(); 
         gui.setVisible(true);
     }
-    
+ 
 }
